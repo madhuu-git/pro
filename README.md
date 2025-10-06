@@ -1,2 +1,1 @@
-# pro
-this repository contains web lab manual
+# lab 2
